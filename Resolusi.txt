@@ -2,3 +2,5 @@ Resolusi Falah
 - Konsisten belajar bahasa pemrograman python
 - Konsisten mengerjakan problem codeabbey
 - Membuat forum diskusi
+- Membuat Website sederhana
+- Kolaborasi dengan lebih banyak expert
