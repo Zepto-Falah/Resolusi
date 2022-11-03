@@ -1,0 +1,5 @@
+Rencana Konten
+
+- Python
+- C++
+- Membuat Website
