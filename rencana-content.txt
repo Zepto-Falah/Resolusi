@@ -3,5 +3,6 @@ Rencana Konten
 - Python
   *Libraries
   *Framework Python
+- Struktur Data Dasar
 - C++
 - Membuat Website
